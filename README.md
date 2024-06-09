@@ -66,9 +66,9 @@
 ### 🤝 &nbsp;Contactate conmigo
 
 <p align="center">
-<a href="mailto:georginaliraavila27@gmail.com"><img src="https://img.shields.io/badge/-GeoLira-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/georginalira1/"><img src="https://img.shields.io/badge/-georginalira1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100074409229683"><img src="https://img.shields.io/badge/-Gina Lira-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:dannymenanuevo89@gmail.com"><img src="https://img.shields.io/badge/-GeoLira-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/danylo._.nuev/"><img src="https://img.shields.io/badge/-georginalira1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/danny.menanuev/"><img src="https://img.shields.io/badge/-Gina Lira-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <div align="center">
