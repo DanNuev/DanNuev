@@ -22,9 +22,10 @@
 - 💬 Ask me about Sql, Java, C#, JavaScript
   
 - ⚡ As a curious fact:
--  I like to listen to music
--  read
--  experience new things 
+   I like to listen to music
+   read
+   experience new things
+- I have other hobbies such as DANCING. I dance almost any genre 🕺🕺, plus I pick up quite quickly and they are good with business closing deals of great importance in my different branches🧾💼
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
